@@ -4,4 +4,4 @@ def daily_message():
     return f"Hello GitHub! Today is {today}"
 
 if __name__ == "__main__":
-    print(daily_messa())
+    print(daily_message())
